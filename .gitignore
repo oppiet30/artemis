@@ -1,3 +1,6 @@
 /vendor/
 .env
 .vscode
+default/Thumbs.db
+default/1/Thumbs.db
+default/map/Thumbs.db
